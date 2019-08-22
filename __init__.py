@@ -39,4 +39,8 @@ while True:
             d.update()
             d.close()
     else:
-        leds.set(rand() % 11, colors[rand() %
+        leds.set(rand() % 11, colors[rand() % len(colors)])
+        leds.set_rocket(rand() % 3, rand() % 32)
+        utime.sleep_ms(100)
+
+    utime.sleep_us(1)
