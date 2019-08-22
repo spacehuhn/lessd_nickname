@@ -25,3 +25,4 @@ Here's the update tutorial: https://card10.badge.events.ccc.de/en/firmwareupdate
 
 **6.** Safely eject/unmount the badge USB drive and enjoy your new app!
 
+If you like to hack around yourself, here's the documentation for card10 micropython: https://firmware.card10.badge.events.ccc.de/index.html
